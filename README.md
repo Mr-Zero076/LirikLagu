@@ -4,7 +4,7 @@
 
 pkg update
 apt upgrade && apt update
-git clone https://github.com/AbilSeno/PencariLirik
-cd PencariLirik
+git clone https://github.com/Mr-Zero076/LirikLagu
+cd LirikLagu
 pip install requests
-python run.py
+python lirik.py
